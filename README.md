@@ -1,1 +1,1 @@
-"My Portfolio Site : http://aminzdev.net/" 
+"My Portfolio Site : https://aminzdev.net/" 
